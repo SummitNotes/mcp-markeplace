@@ -1,0 +1,18 @@
+{
+  "name": "summit-ai-notes",
+  "owner": {
+    "name": "Summit AI Notes",
+    "email": "info@summitnotes.app"
+  },
+  "plugins": [
+    {
+      "name": "summit",
+      "source": "./plugins/summit",
+      "description": "Connect your Summit AI Notes to Claude",
+      "version": "1.0.0",
+      "author": {
+        "name": "Summit AI Notes"
+      }
+    }
+  ]
+}
