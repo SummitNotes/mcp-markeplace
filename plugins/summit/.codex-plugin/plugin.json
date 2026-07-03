@@ -1,0 +1,35 @@
+{
+  "name": "summit",
+  "version": "1.0.0",
+  "description": "Connect Codex to meeting notes stored locally in Summit AI Notes for macOS.",
+  "author": {
+    "name": "Summit AI Notes",
+    "email": "info@summitnotes.app",
+    "url": "https://summitnotes.app"
+  },
+  "homepage": "https://summitnotes.app",
+  "keywords": [
+    "meetings",
+    "notes",
+    "transcripts",
+    "local-first",
+    "mcp"
+  ],
+  "interface": {
+    "displayName": "Summit AI Notes",
+    "shortDescription": "Work with your local Summit meeting notes.",
+    "longDescription": "Connect Codex to Summit AI Notes running on this Mac. Search and work with local meeting transcripts, summaries, and action items through Summit's local MCP server.",
+    "developerName": "Summit AI Notes",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://summitnotes.app",
+    "defaultPrompt": [
+      "Find my recent Summit meeting notes.",
+      "Summarize the action items from my latest meeting.",
+      "Search my Summit transcripts for a topic."
+    ]
+  },
+  "mcpServers": "./.mcp.json"
+}

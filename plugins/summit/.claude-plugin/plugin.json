@@ -1,0 +1,10 @@
+{
+  "name": "summit",
+  "version": "1.0.0",
+  "description": "Connect Claude to meeting notes stored locally in Summit AI Notes for macOS.",
+  "author": {
+    "name": "Summit AI Notes",
+    "email": "info@summitnotes.app"
+  },
+  "homepage": "https://summitnotes.app"
+}

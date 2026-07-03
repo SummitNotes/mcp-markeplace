@@ -8,7 +8,7 @@
     {
       "name": "summit",
       "source": "./plugins/summit",
-      "description": "Connect your Summit AI Notes to Claude",
+      "description": "Connect Claude to Summit AI Notes running locally on your Mac",
       "version": "1.0.0",
       "author": {
         "name": "Summit AI Notes"
